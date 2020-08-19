@@ -1,4 +1,15 @@
-### Hi there 👋
+
+```
+|8|♜|♞|♟|♛|♚|♝|♞|♜|
+|7|♟|♟|♟|♟|♟|♟|♟|♟|
+|6| | | | | | | | |
+|5| | | | | | | | |
+|4| | | | | | | | |
+|3| | | | |♙| | | |
+|2|♙|♙|♙|♙| |♙|♙|♙|
+|1|♖|♘|♗|♕|♔|♗|♘|♖|
+| |a|b|c|d|e|f|g|h|
+```
 
 <!--
 **Galarius/Galarius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
